@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo Themes - aether</title>
+    <title>Siler</title>
     <link>https://mattsiler.github.io/</link>
-    <description>Recent content on Hugo Themes - aether</description>
+    <description>Recent content on Siler</description>
     <generator>Hugo -- gohugo.io</generator>
     
         <atom:link href="https://mattsiler.github.io/index.xml" rel="self" type="application/rss+xml" />
